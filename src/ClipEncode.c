@@ -3,7 +3,7 @@
  * @author Devon Crawford
  * @date February 21, 2019
  * @brief File containing the source for ClipEncode API:
- * These functions build ontop of ClipDecode API to get a raw AVFrame
+ * These functions build ontop of ClipDecode API to get a raw AVFrame             
  * from a clip which we use to encode
  */
 
